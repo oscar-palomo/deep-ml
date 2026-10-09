@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:17:46.849Z",
+  "generated_at": "2026-10-09T14:31:18.367Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -88,6 +88,17 @@
       "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
       "first_solved_at": "2026-10-09T02:17:46.284Z",
       "last_pushed_at": "2026-10-09T02:17:46.284Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-10-09T14:31:17.366Z",
+      "last_pushed_at": "2026-10-09T14:31:17.366Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 0 problems · 0 labs · 8 math
+**9** solved · 0 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-09 | [solution](math/0019-probability-fundamentals) |
 | [Standard Error and the Sampling Distribution of an Estimator](https://www.deep-ml.com/math-problems/73) | easy | 2026-10-09 | [solution](math/0073-standard-error-and-the-sampling-distribution-of-an-estimator) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-05 | [solution](math/0007-vector-operations) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-09 | [solution](math/0010-matrix-multiplication) |
 
 ---
 
